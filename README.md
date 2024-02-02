@@ -1,2 +1,2 @@
 # cafeteria-manhattan
-Projeto DevMedia
+Projetos da DevMedia
